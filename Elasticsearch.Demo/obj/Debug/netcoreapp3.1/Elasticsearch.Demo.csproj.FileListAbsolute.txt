@@ -1,0 +1,17 @@
+C:\Users\bemo\source\repos\Elasticsearch.Demo\Elasticsearch.Demo\bin\Debug\netcoreapp3.1\Elasticsearch.Demo.exe
+C:\Users\bemo\source\repos\Elasticsearch.Demo\Elasticsearch.Demo\bin\Debug\netcoreapp3.1\Elasticsearch.Demo.deps.json
+C:\Users\bemo\source\repos\Elasticsearch.Demo\Elasticsearch.Demo\bin\Debug\netcoreapp3.1\Elasticsearch.Demo.runtimeconfig.json
+C:\Users\bemo\source\repos\Elasticsearch.Demo\Elasticsearch.Demo\bin\Debug\netcoreapp3.1\Elasticsearch.Demo.runtimeconfig.dev.json
+C:\Users\bemo\source\repos\Elasticsearch.Demo\Elasticsearch.Demo\bin\Debug\netcoreapp3.1\Elasticsearch.Demo.dll
+C:\Users\bemo\source\repos\Elasticsearch.Demo\Elasticsearch.Demo\bin\Debug\netcoreapp3.1\Elasticsearch.Demo.pdb
+C:\Users\bemo\source\repos\Elasticsearch.Demo\Elasticsearch.Demo\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Users\bemo\source\repos\Elasticsearch.Demo\Elasticsearch.Demo\bin\Debug\netcoreapp3.1\Nest.dll
+C:\Users\bemo\source\repos\Elasticsearch.Demo\Elasticsearch.Demo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bemo\source\repos\Elasticsearch.Demo\Elasticsearch.Demo\obj\Debug\netcoreapp3.1\Elasticsearch.Demo.csprojAssemblyReference.cache
+C:\Users\bemo\source\repos\Elasticsearch.Demo\Elasticsearch.Demo\obj\Debug\netcoreapp3.1\Elasticsearch.Demo.AssemblyInfoInputs.cache
+C:\Users\bemo\source\repos\Elasticsearch.Demo\Elasticsearch.Demo\obj\Debug\netcoreapp3.1\Elasticsearch.Demo.AssemblyInfo.cs
+C:\Users\bemo\source\repos\Elasticsearch.Demo\Elasticsearch.Demo\obj\Debug\netcoreapp3.1\Elasticsearch.Demo.csproj.CoreCompileInputs.cache
+C:\Users\bemo\source\repos\Elasticsearch.Demo\Elasticsearch.Demo\obj\Debug\netcoreapp3.1\Elasticsearch.Demo.csproj.CopyComplete
+C:\Users\bemo\source\repos\Elasticsearch.Demo\Elasticsearch.Demo\obj\Debug\netcoreapp3.1\Elasticsearch.Demo.dll
+C:\Users\bemo\source\repos\Elasticsearch.Demo\Elasticsearch.Demo\obj\Debug\netcoreapp3.1\Elasticsearch.Demo.pdb
+C:\Users\bemo\source\repos\Elasticsearch.Demo\Elasticsearch.Demo\obj\Debug\netcoreapp3.1\Elasticsearch.Demo.genruntimeconfig.cache

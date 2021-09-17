@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "IEj5ptQUZTM9IefX9+dgiHat29bEp5dhmLEcjE3nzoxMvXQHFSf+8bvq2hz8lP+XDk1JLdX4AQZVvHmoDnh5dQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bemo\\source\\repos\\Elasticsearch.Demo\\Elasticsearch.Demo\\Elasticsearch.Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bemo\\.nuget\\packages\\elasticsearch.net\\7.14.1\\elasticsearch.net.7.14.1.nupkg.sha512",
+    "C:\\Users\\bemo\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\bemo\\.nuget\\packages\\nest\\7.14.1\\nest.7.14.1.nupkg.sha512",
+    "C:\\Users\\bemo\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\bemo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
